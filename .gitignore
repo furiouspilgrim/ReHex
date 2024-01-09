@@ -1,0 +1,8 @@
+
+# ignores all .txt files
+*.txt
+**/.vs
+**/Debug
+**/x64
+**/ReHex/Debug
+**/ReHex/x64
