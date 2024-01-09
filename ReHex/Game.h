@@ -9,7 +9,7 @@ private:
 	bool mAIToMove = false;
 };
 
-//other test comm
+//some shitty comment
 
 class Game
 {
