@@ -12,7 +12,7 @@
 // 5 = Purple d = Light Purple
 // 6 = Yellow e = Light Yellow
 // 7 = White f = Bright White
-// colorattribute = foreground + background * 16
+// colourAttribute = foreground + background * 16
 // 
 //
 //  --------------------------
