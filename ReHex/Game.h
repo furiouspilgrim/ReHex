@@ -9,6 +9,8 @@ private:
 	bool mAIToMove = false;
 };
 
+//some shitty comment
+
 class Game
 {
 public:
